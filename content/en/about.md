@@ -4,25 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### Hey there! I'm Hexi2077 / justlovemaki
 
-> A decade of code, my fingers often flew,
-> But a restless spirit sought something new.
-> Then AI's storm began to surge and roar,
-> I vowed to conquer, and explore much more.
+Ten years coding, my fingers have flown,
+But a restless spirit, still largely unknown.
+Then AI's rumble, a storm on the rise,
+Time to charge into the clouds, aiming for the skies!
 
-#### My Code Philosophy 🤔
+#### 💡 My Code Philosophy
 
-> Technology serves the people.
+Technology for the People!
 
-#### Featured Work
+#### ✨ My Cool Projects
 
-*   **[Open Source Project/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   🖼️ An AI image generation script, powered by Cloudflare Workers.
-*   **[Open Source Project/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   📰 This content aggregation and generation platform, driven by Cloudflare Workers, delivers daily AI insights straight to you! Think industry news, hot open-source projects, mind-blowing academic papers, and even tech influencers' social chatter.
-*   🔗 For even more project details, check out my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    This AI image generation script is built on Cloudflare Worker. Super neat!
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    This content aggregation and generation platform, powered by Cloudflare Workers, daily curates the latest AI buzz for you. It covers industry news, hot open-source projects, cutting-edge academic papers, and even what tech bigwigs are jabbering about on social media!
+*   For more project details, dive into my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Exploring Now 💡
+#### 🌱 What I'm Geeking Out On Now
 
-I'm super into LLM applications and website SEO right now, diving deep into learning and hands-on practice.
+I'm super keen on LLM applications and website SEO. Seriously diving deep into learning and hands-on practice right now!
